@@ -105,13 +105,12 @@ class Main:
 			#yahan pr v apna github link dalna aproval wala
 			plr = requests.get('https://github.com/TermuxmasudTech/masud-file-cloning.git').text
 			if basesplit in plr:
-				key = basesplit
+				
 				stat = ("\033[0;97mPREMIUM")
 				FY = '\033[0;97m'
 				FG = '\033[0;97m'
 				GET = '\r'
 			else:
-				key = ("\033[0;97m -")
 				stat = ("\033[0;97mFREE USER")
 				FY = '\033[0;90m'
 				FG = '\033[0;90m'
