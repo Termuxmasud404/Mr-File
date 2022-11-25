@@ -51,8 +51,8 @@ def logo2():
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m Version :6\x1b[0m\x1b[1;97m] \033[1;37m 
  ───────────────────────────────────────────────────────×
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m Author   : Mr-Masud \x1b[0m\x1b[1;97m]
-\t\033[1;97m[\x1b[1;97m\x1b[1;41m Github   : https://github.com/TermuxmasudTech/masud-file-cloning.git \x1b[0m\x1b[1;97m]
-\t\033[1;97m[\x1b[1;97m\x1b[1;41m Facebook : www.facebook./MrMasud-xd \x1b[0m\x1b[1;97m]
+\t\033[1;97m[\x1b[1;97m\x1b[1;41m Github   : TermuxmasudTech
+\t\033[1;97m[\x1b[1;97m\x1b[1;41m Facebook : Md Masud Rana  \x1b[0m\x1b[1;97m]
 ───────────────────────────────────────────────────────× 
  """)
 
@@ -65,8 +65,8 @@ def runtxt(z):
 os.system('termux-setup-storage')
 
 def helpnote():
-	print("%s [=>] FOLLOW ME ON  FB TU KNOW ABOUT UPDATES  :)"%(G))
-	#yahan nichy httsp sy hata kr apna github aproval link dalna
+	
+	
 	subprocess.check_output(["am", "start", "https://github.com/TermuxmasudTech/masud-file-cloning.git.txt"])
 	#yahan apni facebook id link dalna
 	exit(" [=>] FACEBOOK :  https://www.facebook.com/profile.php?id=100082000219276")
@@ -76,7 +76,7 @@ def notice():
 
  
 
-	runtxt("\n\033[0;97m  Free 2009 cloning Tool For Free Aproval Join Group ")
+	runtxt("\n\033[0;97m  Free 2009 cloning Tool For Free Join My Group ")
 	os.system("xdg-open https://www.facebook.com/groups/257112002715725/?ref=share&mibextid=NSMWBT/?app=fbl")
 	
 	os.system("xdg-open https://www.facebook.com/groups/257112002715725/?ref=share&mibextid=NSMWBT")
